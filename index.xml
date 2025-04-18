@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Saxmand ReaScripts" commit="6ff0e41c53ba11ed0bbf79beb08b2ebb06462ef5">
-  <category name="Items Editing">
+<index version="1" name="Saxmand ReaScripts" commit="fe687362ecdfc8477837c72e4ff5bbc753babe5e">
+  <category name="Effects/Saxmand JSFX/FX Modulator Linking/WIP">
+    <reapack name="LFO Modulator Backup.jsfx" type="effect" desc="LFO Modulator backup">
+      <version name="2 (2023-12-25)" author="Snjuk2" time="2025-04-18T20:57:22Z">
+        <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/fe687362ecdfc8477837c72e4ff5bbc753babe5e/Effects/Saxmand%20JSFX/FX%20Modulator%20Linking/WIP/LFO%20Modulator%20Backup.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Scripts/Items Editing">
     <reapack name="Saxmand_Advanced Arrangement View Selection.lua" type="script" desc="Advanced Arrangment View Selection">
-      <version name="0.3.2" author="saxmand" time="2025-04-18T18:18:13Z">
-        <source main="main">https://github.com/saxmand/Saxmand-ReaScripts/raw/bd596e79984fb1702fb11018373369c82fbf594d/Items%20Editing/Saxmand_Advanced%20Arrangement%20View%20Selection.lua</source>
+      <version name="0.3.2" author="saxmand" time="2025-04-18T20:57:22Z">
+        <source main="main">https://github.com/saxmand/Saxmand-ReaScripts/raw/fe687362ecdfc8477837c72e4ff5bbc753babe5e/Scripts/Items%20Editing/Saxmand_Advanced%20Arrangement%20View%20Selection.lua</source>
       </version>
     </reapack>
   </category>
