@@ -1,23 +1,7 @@
-# ReaPack Repository Template
+# Saxmand ReaScript Repository
 
-A template for GitHub-hosted ReaPack repositories with automated
-[reapack-index](https://github.com/cfillion/reapack-index)
-running from GitHub Actions.
+This is my collection of ReaScripts for the DAW Reaper that will help assist your workflows. 
 
-Replace the name of the repository in [index.xml](/index.xml) when using this template.
-This will be the name shown in ReaPack.
+As I'm a film composer, I want to make Reaper the best DAW for film music, as it has the biggest potential for this.
 
-```xml
-<index version="1" name="Name of your repository here">
-```
-
-Replace the contents of this file ([README.md](/README.md)).
-This will be the text shown when using ReaPack's "About this repository" feature.
-
-reapack-index looks for package files in subfolders.
-The folder tree represents the package categories shown in ReaPack.
-
-Each package file is expected to begin with a metadata header.
-See [Packaging Documentation](https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation) on reapack-index's wiki.
-
-The URL to import in ReaPack is [https://github.com/`<your username>`/`<repository name>`/raw/master/index.xml](https://github.com/cfillion/reapack-repository-template/raw/master/index.xml).
+This journey started in December 2023, as is only just getting started. A lot to come!! 
