@@ -3,7 +3,7 @@ author: Saxmand
 version: 1.0
 changelog: Initial release
 provides: 
-  [effect] Saxmand JSFX/FX Modulator Linking/Generic Parameter Modulator
+  [effect] Saxmand JSFX/FX Modulator Linking/Generic Parameter Modulator.jsfx
   
 /**
  * JSFX : Generic Parameter Modulator

@@ -3,7 +3,7 @@ author: Saxmand
 version: 1.0
 changelog: Initial release
 provides: 
-  [effect] Saxmand JSFX/FX Modulator Linking/ACS Native Modulator
+  [effect] Saxmand JSFX/FX Modulator Linking/ACS Native Modulator.jsfx
 
 /**
  * JSFX : ACS Native Modulator
