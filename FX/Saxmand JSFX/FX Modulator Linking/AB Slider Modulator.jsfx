@@ -1,12 +1,10 @@
-desc:4-in-1-out Modulator
+desc:AB Slider Modulator
 author: Saxmand
 version: 1.0
 changelog: Initial release
-provides: 
-  [effect] Saxmand JSFX/FX Modulator Linking/4-in-1-out Modulator.jsfx
 
 /**
- * JSFX : 4-in-1-out Modulator
+ * JSFX : AB Slider Modulator
  * Author: Jesper Ankarfeldt
  * Reaper forum : 
  * Licence: GPL v3
@@ -14,26 +12,23 @@ provides:
  * Version: 10 (2024-11-14)
  */
 
-slider1:0<0,1,0.001>Output  
-
-slider2:0<0,1,0.001>Input1
-slider3:0<0,1,0.001>Input2
-slider4:0<0,1,0.001>Input3
-slider5:0<0,1,0.001>Input4
+slider1:<0,1,0.001>Output  
 
 options:no_meter
 
 @init
 
+ext_noinit = 1;
+
 @slider
-out = slider2 + slider3 + slider4 + slider5;  
-out < 0 ? out = 0;
-out > 1 ? out = 1;
-slider1 = out;
+
+  
+@block
 
 
 @gfx
-gfx_h = 300; // Height in pixels
+
+gfx_h = 500; // Height in pixels
 gfx_set(1, 1, 1, 0.15);
 gfx_rect(0, 0, gfx_w, gfx_h);
 gfx_setfont(1, "Arial", 16); // Font slot 1 with custom font and size

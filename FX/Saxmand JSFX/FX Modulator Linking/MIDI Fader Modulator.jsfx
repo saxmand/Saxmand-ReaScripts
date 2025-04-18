@@ -2,8 +2,6 @@ desc:MIDI Fader Modulator
 author: Saxmand
 version: 1.0
 changelog: Initial release
-provides: 
-  [effect] Saxmand JSFX/FX Modulator Linking/MIDI Fader Modulator.jsfx
 
 /**
  * JSFX : MIDI Fader Modulator
