@@ -176,10 +176,7 @@ function getTimePositionOfCursor()
         local mousePosX, mousePosY = reaper.GetMousePosition()
         mousePosTimeline = getPositionOfTimeFromPixelPos(mousePosX)
     end
-    if mousePosTimeline == -1 then
-        mousePosTimeline = nil
-    end
-    return mousePosTimeline
+    return mousePosTimeline ~= -1 and mousePosTimeline or nil
 end
 
 local function getPositionOfTrackY() 
@@ -477,7 +474,6 @@ end
 local function selectEnvelopePointsBR(minIndex, startMouseRelativeToTrack, minPos, maxIndex, endMouseRelativeToTrack, maxPos, selectedEnvelope)
     local _, _, top, _, _ = reaper.JS_Window_GetRect(arrange_hwnd)
     local isShiftPressed = reaper.JS_Mouse_GetState(ADD_TO_SELECTION_MOUSE_STATE_NUMBER) == ADD_TO_SELECTION_MOUSE_STATE_NUMBER
-    local isCmdPressed = isSuperPressed
 
     for i = minIndex, maxIndex do
         local track = reaper.GetTrack(0, i)
