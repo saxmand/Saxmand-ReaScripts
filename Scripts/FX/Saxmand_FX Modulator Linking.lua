@@ -2,11 +2,9 @@
 -- @author saxmand
 -- @version 0.0.1
 -- @provides
---   [nomain] Helpers/*.lua
---   [effect] Saxmand JSFX/FX Modulator Linking/*.jsfx
+--    [nomain] Helpers/*.lua
+--    [effect] Saxmand JSFX/FX Modulator Linking/*.jsfx
 
--- @changelog
---    + alpha release
 
 package.path = reaper.ImGui_GetBuiltinPath() .. '/?.lua'
 local ImGui = require 'imgui' '0.9.3'
