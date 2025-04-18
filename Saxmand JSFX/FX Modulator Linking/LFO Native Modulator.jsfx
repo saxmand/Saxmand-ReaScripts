@@ -3,7 +3,7 @@ author: Saxmand
 version: 1.0
 changelog: Initial release
 provides: 
-  [effect] Saxmand JSFX/LFO Native Modulator
+  [effect] Saxmand JSFX/FX Modulator Linking/LFO Native Modulator
 
 /**
  * JSFX : LFO Native Modulator

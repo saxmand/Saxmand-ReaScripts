@@ -3,7 +3,7 @@ author: Saxmand
 version: 1.0
 changelog: Initial release
 provides: 
-  [effect] Saxmand JSFX/4-in-1-out Modulator
+  [effect] Saxmand JSFX/FX Modulator Linking/4-in-1-out Modulator
 
 /**
  * JSFX : 4-in-1-out Modulator
