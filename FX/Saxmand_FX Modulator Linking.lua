@@ -3,7 +3,7 @@
 -- @version 0.0.1
 -- @provides
 --    [nomain] Helpers/*.lua
---    [effects] Saxmand JSFX/FX Modulator Linking/*.jsfx
+--    [effect] Saxmand JSFX/FX Modulator Linking/*.jsfx
 -- @changelog
 --    + alpha release
 
