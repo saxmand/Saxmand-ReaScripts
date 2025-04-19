@@ -2,8 +2,7 @@
 -- @author saxmand
 -- @version 0.1.0
 -- @provides
---   [nomain] Helpers/*.lua
---   [effect] Saxmand JSFX/FX Modulator Linking/*.jsfx
+--   [nomain] .
 
 
 package.path = reaper.ImGui_GetBuiltinPath() .. '/?.lua'
