@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" commit="abab98dff10034196fa5840d0fb74a4ccbcb7284" name="Saxmand ReaScripts">
+<index version="1" commit="abab98dff10034196fa5840d0fb74a4ccbcb7284">
   <category name="Effects/Saxmand JSFX/FX Modulator Linking">
     <reapack name="4-in-1-out Modulator.jsfx" type="effect" desc="4-in-1-out Modulator">
       <version name="1.0" author="Saxmand" time="2025-04-19T00:16:31Z">
