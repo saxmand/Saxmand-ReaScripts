@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" commit="abab98dff10034196fa5840d0fb74a4ccbcb7284" name="Saxmand ReaScript">
+<index version="1" commit="eb3412882b11ade157dd8c12d40a2a75624a0975" name="Saxmand ReaScript">
   <category name="Effects/Saxmand JSFX/FX Modulator Linking">
     <reapack name="4-in-1-out Modulator.jsfx" type="effect" desc="4-in-1-out Modulator">
       <version name="1.0" author="Saxmand" time="2025-04-19T00:16:31Z">
@@ -34,6 +34,13 @@
       <version name="1.0" author="Saxmand" time="2025-04-19T00:16:31Z">
         <changelog><![CDATA[Initial release]]></changelog>
         <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/6dfaf5a7cd87e9cff280de4c4f8af6b444b679b9/Effects/Saxmand%20JSFX/FX%20Modulator%20Linking/MIDI%20Fader%20Modulator.jsfx</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Scripts/Saxmand ReaScripts/FX">
+    <reapack name="Saxmand_FX Modulator Linking.lua" type="script" desc="FX Modulator Linking">
+      <version name="0.1.0" author="saxmand" time="2025-04-19T02:23:03Z">
+        <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/eb3412882b11ade157dd8c12d40a2a75624a0975/Scripts/Saxmand%20ReaScripts/FX/Saxmand_FX%20Modulator%20Linking.lua</source>
       </version>
     </reapack>
   </category>
