@@ -1,4 +1,8 @@
-
+-- @description Advanced Arrangment View Selection
+-- @author saxmand
+-- @version 0.3.2
+-- @provides
+--   [nomain] Scripts/Saxmand ReaScripts/Items Editing/Saxmand_Advanced Arrangement View Selection.lua
 
 --[[
 Known issues:
