@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Saxmand ReaScripts" commit="06758dd80275556e89f6ca2baa86e256d31236dd">
-  <category name="Effects/Saxmand JSFX/FX Modulator Linking">
-    <reapack name="4-in-1-out Modulator.jsfx" type="effect" desc="4-in-1-out Modulator">
-      <version name="1.0" author="Saxmand" time="2025-04-18T23:55:04Z">
-        <changelog><![CDATA[Initial release]]></changelog>
-        <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/06758dd80275556e89f6ca2baa86e256d31236dd/Effects/Saxmand%20JSFX/FX%20Modulator%20Linking/4-in-1-out%20Modulator.jsfx</source>
-      </version>
-    </reapack>
-    <reapack name="AB Slider Modulator.jsfx" type="effect" desc="AB Slider Modulator">
-      <version name="1.0" author="Saxmand" time="2025-04-18T23:55:04Z">
-        <changelog><![CDATA[Initial release]]></changelog>
-        <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/06758dd80275556e89f6ca2baa86e256d31236dd/Effects/Saxmand%20JSFX/FX%20Modulator%20Linking/AB%20Slider%20Modulator.jsfx</source>
-      </version>
-    </reapack>
-    <reapack name="ACS Native Modulator.jsfx" type="effect" desc="ACS Native Modulator">
-      <version name="1.0" author="Saxmand" time="2025-04-18T23:55:04Z">
-        <changelog><![CDATA[Initial release]]></changelog>
-        <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/06758dd80275556e89f6ca2baa86e256d31236dd/Effects/Saxmand%20JSFX/FX%20Modulator%20Linking/ACS%20Native%20Modulator.jsfx</source>
-      </version>
-    </reapack>
-    <reapack name="Generic Parameter Modulator.jsfx" type="effect" desc="Generic Parameter Modulator">
-      <version name="1.0" author="Saxmand" time="2025-04-18T23:55:04Z">
-        <changelog><![CDATA[Initial release]]></changelog>
-        <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/06758dd80275556e89f6ca2baa86e256d31236dd/Effects/Saxmand%20JSFX/FX%20Modulator%20Linking/Generic%20Parameter%20Modulator.jsfx</source>
-      </version>
-    </reapack>
-    <reapack name="LFO Native Modulator.jsfx" type="effect" desc="LFO Native Modulator">
-      <version name="1.0" author="Saxmand" time="2025-04-18T23:55:04Z">
-        <changelog><![CDATA[Initial release]]></changelog>
-        <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/06758dd80275556e89f6ca2baa86e256d31236dd/Effects/Saxmand%20JSFX/FX%20Modulator%20Linking/LFO%20Native%20Modulator.jsfx</source>
-      </version>
-    </reapack>
-    <reapack name="MIDI Fader Modulator.jsfx" type="effect" desc="MIDI Fader Modulator">
-      <version name="1.0" author="Saxmand" time="2025-04-18T23:55:04Z">
-        <changelog><![CDATA[Initial release]]></changelog>
-        <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/06758dd80275556e89f6ca2baa86e256d31236dd/Effects/Saxmand%20JSFX/FX%20Modulator%20Linking/MIDI%20Fader%20Modulator.jsfx</source>
+<index version="1" name="Saxmand ReaScripts" commit="a367d5d7f7e048568ba47c8f1189c48bc4e492c2">
+  <category name="Items Editing">
+    <reapack name="Saxmand_Advanced Arrangement View Selection.lua" type="script" desc="Advanced Arrangment View Selection">
+      <version name="0.3.2" author="saxmand" time="2025-04-19T00:06:38Z">
+        <source main="main">https://github.com/saxmand/Saxmand-ReaScripts/raw/a367d5d7f7e048568ba47c8f1189c48bc4e492c2/Items%20Editing/Saxmand_Advanced%20Arrangement%20View%20Selection.lua</source>
       </version>
     </reapack>
   </category>
-  <category name="Scripts/Items Editing">
-    <reapack name="Saxmand_Advanced Arrangement View Selection.lua" type="script" desc="Advanced Arrangment View Selection">
-      <version name="0.3.2" author="saxmand" time="2025-04-18T23:55:04Z">
-        <source main="main">https://github.com/saxmand/Saxmand-ReaScripts/raw/06758dd80275556e89f6ca2baa86e256d31236dd/Scripts/Items%20Editing/Saxmand_Advanced%20Arrangement%20View%20Selection.lua</source>
+  <category name="JSFX/FX Modulator Linking">
+    <reapack name="4-in-1-out Modulator.jsfx" type="effect" desc="4-in-1-out Modulator">
+      <version name="1.0" author="Saxmand" time="2025-04-19T00:06:38Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/a367d5d7f7e048568ba47c8f1189c48bc4e492c2/JSFX/FX%20Modulator%20Linking/4-in-1-out%20Modulator.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="AB Slider Modulator.jsfx" type="effect" desc="AB Slider Modulator">
+      <version name="1.0" author="Saxmand" time="2025-04-19T00:06:38Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/a367d5d7f7e048568ba47c8f1189c48bc4e492c2/JSFX/FX%20Modulator%20Linking/AB%20Slider%20Modulator.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="ACS Native Modulator.jsfx" type="effect" desc="ACS Native Modulator">
+      <version name="1.0" author="Saxmand" time="2025-04-19T00:06:38Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/a367d5d7f7e048568ba47c8f1189c48bc4e492c2/JSFX/FX%20Modulator%20Linking/ACS%20Native%20Modulator.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="Generic Parameter Modulator.jsfx" type="effect" desc="Generic Parameter Modulator">
+      <version name="1.0" author="Saxmand" time="2025-04-19T00:06:38Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/a367d5d7f7e048568ba47c8f1189c48bc4e492c2/JSFX/FX%20Modulator%20Linking/Generic%20Parameter%20Modulator.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="LFO Native Modulator.jsfx" type="effect" desc="LFO Native Modulator">
+      <version name="1.0" author="Saxmand" time="2025-04-19T00:06:38Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/a367d5d7f7e048568ba47c8f1189c48bc4e492c2/JSFX/FX%20Modulator%20Linking/LFO%20Native%20Modulator.jsfx</source>
+      </version>
+    </reapack>
+    <reapack name="MIDI Fader Modulator.jsfx" type="effect" desc="MIDI Fader Modulator">
+      <version name="1.0" author="Saxmand" time="2025-04-19T00:06:38Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/a367d5d7f7e048568ba47c8f1189c48bc4e492c2/JSFX/FX%20Modulator%20Linking/MIDI%20Fader%20Modulator.jsfx</source>
       </version>
     </reapack>
   </category>
