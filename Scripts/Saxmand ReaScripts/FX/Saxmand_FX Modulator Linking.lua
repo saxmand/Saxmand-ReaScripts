@@ -2,7 +2,6 @@
 -- @author saxmand
 -- @version 0.1.0
 -- @provides
---   [main] Scripts/Saxmand ReaScripts/FX/FX Modulator Linking.lua
 --   [nomain] Helpers/*.lua
 --   [effect] Saxmand JSFX/FX Modulator Linking/*.jsfx
 

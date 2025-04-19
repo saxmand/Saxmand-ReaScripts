@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index version="1" name="Saxmand ReaScripts" commit="6dfaf5a7cd87e9cff280de4c4f8af6b444b679b9">
-  <category name="Effects/Saxmand JSFX/FX Modulator Linking">
-    <reapack name="4-in-1-out Modulator.jsfx" type="effect" desc="4-in-1-out Modulator">
-      <version name="1.0" author="Saxmand" time="2025-04-19T00:16:31Z">
-        <source>https://github.com/saxmand/Saxmand-ReaScripts/raw/6dfaf5a7cd87e9cff280de4c4f8af6b444b679b9/Effects/Saxmand%20JSFX/FX%20Modulator%20Linking/4-in-1-out%20Modulator.jsfx</source>
-      </version>
-    </reapack>
-  </category>
+
   <metadata>
     <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
