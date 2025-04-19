@@ -1,9 +1,6 @@
 -- @description FX Modulator Linking
 -- @author saxmand
 -- @version 0.1.0
--- @provides
---   [nomain] Helpers/*.lua
---   [effect] FX Modulator Linking/*.jsfx
 
 
 package.path = reaper.ImGui_GetBuiltinPath() .. '/?.lua'
